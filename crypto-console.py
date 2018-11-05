@@ -136,7 +136,6 @@ def run_merkle_hellman():
 
     print("* Seed *")
     seed = input("Set Seed [enter for random]: ")
-    import random
     if not seed:
         random.seed()
     else:
