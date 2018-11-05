@@ -48,7 +48,7 @@ def byte_to_bits(byte):
         raise BinaryConversionError(byte)
 
     out = []
-    for i in range(8):
+    for _ in range(8):
         out.append(byte & 1)
         byte >>= 1
     return out[::-1]
