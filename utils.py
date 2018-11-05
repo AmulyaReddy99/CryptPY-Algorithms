@@ -1,7 +1,5 @@
 #!/usr/bin/env python3 -tt
-"""
-Mathematical utilities for CS41's Assignment 1: Cryptography.
-"""
+
 import fractions as _fractions
 
 class Error(Exception):
