@@ -6,7 +6,7 @@ Our task at hand is to break codes... Beginners, loose the fear of coding.
 We need to collect as many as crypto-algorithms as possible in KWOC period.
 
 ## Get Started
-```git clone https://github.com/AmulyaReddy99/CryptPY-Algorithms```
+```git clone https://github.com/AmulyaReddy99/CryptPY-Algorithms.git```
 
 Run `python3 crypto.py`, before this go through the code.
 Code consists of few algorithms but not called. To see their functionality call them with appropriate function names.
