@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+#CryptPY-Algorithms
 
-You can use the [editor on GitHub](https://github.com/AmulyaReddy99/Cryptography/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our task at hand is to break codes... Beginners, loose the fear of coding.
+![alt image](https://www.google.co.in/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwixl8vRtf7eAhUJAXIKHeV6Ch0QjRx6BAgBEAU&url=https%3A%2F%2Fmedium.com%2Fcoinmonks%2Fblockchain-cryptography-and-hashing-in-a-nutshell-23f4fd7c77b6&psig=AOvVaw1kLdxCFz9taTKlZ017op6x&ust=1543746380367700)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We need to collect as many as crypto-algorithms as possible in KWOC period.
 
-### Markdown
+##Get Started
+```git clone https://github.com/AmulyaReddy99/CryptPY-Algorithms```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Run `python3 crypto.py`, before this go through the code.
+Code consists of few algorithms but not called. To see their functionality call them with appropriate function names.
+You can add any number of algorithms here. Creating an interface with Tkinter would be helpful.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AmulyaReddy99/Cryptography/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+PRs are welcomed, Happy coding time!
